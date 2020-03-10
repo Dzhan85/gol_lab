@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"practice/go-calculator/calculator"
+	"github.com/Dzhan85/gol_lab"
 	"strconv"
 )
 
